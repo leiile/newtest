@@ -1,1 +1,3 @@
-index.phpxxx
+<?php
+
+echo time();
